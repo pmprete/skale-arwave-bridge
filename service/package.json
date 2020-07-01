@@ -1,0 +1,31 @@
+{
+  "name": "skale-arweave-bridge-service",
+  "version": "1.0.0",
+  "description": "Service that bridges data from skale to arweave",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmprete/skale-arwave-bridge.git"
+  },
+  "keywords": [
+    "skale",
+    "arweave",
+    "bridge",
+    "crypto",
+    "ethereum",
+    "blockchain"
+  ],
+  "author": "pmprete",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pmprete/skale-arwave-bridge/issues"
+  },
+  "homepage": "https://github.com/pmprete/skale-arwave-bridge#readme",
+  "dependencies": {
+    "arweave": "^1.7.1",
+    "web3": "^1.2.9"
+  }
+}
